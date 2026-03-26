@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Dirty Work",
   "base_artist": "aespa",
-  "createdAt": "2026-02-11T07:56:59.636713Z",
+  "createdAt": "2026-03-26T19:39:54.356606Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "aespa",
       "has_synced": false,
       "path": "select/pl_01_Dirty_Work_aespa.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Dirty Work",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/localdb_01_Dirty_Work_aespa.txt",
+      "repo_name": "M2WTUoy4y6E"
     }
   ]
 }
